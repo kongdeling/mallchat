@@ -9,7 +9,7 @@ public class MallchatCustomApplication {
     }
 
     public static void test(){
-        String ceshi ="ceshidaimaheur"
+        String ceshi ="ceshidaimaheur";
     }
 
 }
