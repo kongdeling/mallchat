@@ -8,4 +8,8 @@ public class MallchatCustomApplication {
         SpringApplication.run(MallchatCustomApplication.class,args);
     }
 
+    public static void test(){
+        String ceshi ="ceshidaimaheur"
+    }
+
 }
